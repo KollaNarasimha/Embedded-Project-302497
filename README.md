@@ -33,6 +33,6 @@
 
 #### CI and Code Quality
 
-|Build|Cppcheck|Codacy|Code Quality|
+|Build|Cppcheck|Codacy|Code Inspector|
 |:--:|:--:|:--:|:--:|
 |[![Compile-Linux](https://github.com/KollaNarasimha/Embedded-project-302497/actions/workflows/compile.yml/badge.svg)](https://github.com/KollaNarasimha/Embedded-project-302497/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/KollaNarasimha/Embedded-project-302497/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/KollaNarasimha/Embedded-project-302497/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/409ce2c6d9a84b0a8e7f6c798a29150b)](https://www.codacy.com/gh/KollaNarasimha/Embedded-project-302497/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KollaNarasimha/Embedded-project-302497&amp;utm_campaign=Badge_Grade)|  ![Code Grade](https://www.code-inspector.com/project/25934/status/svg) ![Code Score](https://www.code-inspector.com/project/25934/score/svg)
